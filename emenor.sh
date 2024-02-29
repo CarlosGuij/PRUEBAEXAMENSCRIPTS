@@ -2,7 +2,7 @@
 #que me devuelva la ciudad donde la media de consumos es menor.
 
 
-ciudad_menor_media=
+ciudad_menor_media=0
 menor_media=9999999
 
 while read -r linea; do
